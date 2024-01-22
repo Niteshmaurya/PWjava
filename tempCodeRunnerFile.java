@@ -1,3 +1,1 @@
-
-            System.out.println(arr[i]);
-        }
+arr2
