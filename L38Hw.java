@@ -14,7 +14,7 @@ public class L38Hw {
             int remainingDig = n/10;
             int reversed = revN(remainingDig);
             int power = (int)Math.pow(10, String.valueOf(remainingDig).length());
-            return lastDig * power + reversed;
+            return lastDig * power + reversed;   
         }
     }
 }

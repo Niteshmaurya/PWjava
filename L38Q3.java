@@ -7,7 +7,7 @@ public class L38Q3 {
         System.out.println("reversed string "+rev(s, idx)); 
         if(s.equals(rev(s, idx))) return true;
         else 
-        return false;
+        return false;   
     }
     static String rev(String s ,int idx){
         if(idx==s.length())
