@@ -12,7 +12,7 @@ public class accessModifier {
 
         App2 obj3 = new App2();
       obj3.printFromOutsideClass();
-
+     
 
     }
 }

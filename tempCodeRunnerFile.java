@@ -1,3 +1,3 @@
-            int temp = arr[min_index];
-            arr[min_index]=arr[i];
-            arr[i] = temp;
+        //  if(ans>0)
+        //  else
+        //  System.out.println(bs(arr,p,n,t));
