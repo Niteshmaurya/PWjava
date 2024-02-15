@@ -1,6 +1,6 @@
 public class L50Q2 {
     public static void main(String[] args) {
-         int arr[] = {5,4,3,1,2};
+         int arr[] = {5,4,3,1,2};  
          int t = 4;   
          int n = arr.length ;
          int p = minElem(arr);

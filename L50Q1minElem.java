@@ -1,8 +1,8 @@
 public class L50Q1minElem {
     public static void main(String[] args) {
         // int arr[] = {10,11,12,1,2,3,4,5,6,7,8,9};
-        int arr[] = {5,6,7,8,9,10,1,2,3,4};   
-        // int arr[] = {3,4,5,1,2};
+        // int arr[] = {5,6,7,8,9,10,1,2,3,4};   
+        int arr[] = {4,5,1,2,3};
         System.out.println(minElem(arr));
     }
     static int minElem(int a[]){
